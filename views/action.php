@@ -5,7 +5,7 @@
 <?php require_once('../config/errorConfig.php'); ?>
 <?php require_once('../controller/index-Controller.php'); ?>
 
-    <!-- appel du header  -->
+    <!-- appel du header    -->
 <?php require_once('../partials/headerGP.php'); ?>
 
 <main>
@@ -17,5 +17,5 @@
 
 </main> 
 
-    <!-- appel du footer  -->
+    <!-- appel du footer    -->
 <?php require_once('../partials/footer.php'); ?>
